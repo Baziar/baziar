@@ -6,7 +6,7 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/Baziar?label=Follow&style=for-the-badge&logo=github&color=0891b2)](https://github.com/Baziar)
 [![Twitter URL](https://img.shields.io/badge/-@baziar_dev-0891b2?style=for-the-badge&logo=x)](https://x.com/baziar_dev)
-[![LinkedIn](https://img.shields.io/badge/-morteza.baziar-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/morteza-baziar)
+[![LinkedIn](https://img.shields.io/badge/-morteza.baziar-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/baziar)
 
 **Crafting elegant solutions for complex problems** | Building tools that make development faster and easier
 
